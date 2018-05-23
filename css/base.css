@@ -643,3 +643,12 @@ div[class*="col-"].gap-double-sm, .gap-double-sm {
     background: #ff5252;
 }
 /*End misc */
+
+.logo-white {
+    margin-bottom: 0rem;
+    margin-top: 1rem;
+}
+
+.logo-image {
+    margin-bottom: 0rem;
+}
